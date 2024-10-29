@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		6652CE1F2CCB6A380057E89A /* JZLD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JZLD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		66CC1DCD2CD0F053002F708F /* JZLD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JZLD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6652CE212CCB6A380057E89A /* JZLD */ = {
+		66CC1E022CD0F107002F708F /* JZLD */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = JZLD;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6652CE1C2CCB6A380057E89A /* Frameworks */ = {
+		66CC1DCA2CD0F053002F708F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6652CE162CCB6A380057E89A = {
+		66CC1DC42CD0F053002F708F = {
 			isa = PBXGroup;
 			children = (
-				6652CE212CCB6A380057E89A /* JZLD */,
-				6652CE202CCB6A380057E89A /* Products */,
+				66CC1E022CD0F107002F708F /* JZLD */,
+				66CC1DCE2CD0F053002F708F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		6652CE202CCB6A380057E89A /* Products */ = {
+		66CC1DCE2CD0F053002F708F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6652CE1F2CCB6A380057E89A /* JZLD.app */,
+				66CC1DCD2CD0F053002F708F /* JZLD.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6652CE1E2CCB6A380057E89A /* JZLD */ = {
+		66CC1DCC2CD0F053002F708F /* JZLD */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6652CE2D2CCB6A390057E89A /* Build configuration list for PBXNativeTarget "JZLD" */;
+			buildConfigurationList = 66CC1DDB2CD0F054002F708F /* Build configuration list for PBXNativeTarget "JZLD" */;
 			buildPhases = (
-				6652CE1B2CCB6A380057E89A /* Sources */,
-				6652CE1C2CCB6A380057E89A /* Frameworks */,
-				6652CE1D2CCB6A380057E89A /* Resources */,
+				66CC1DC92CD0F053002F708F /* Sources */,
+				66CC1DCA2CD0F053002F708F /* Frameworks */,
+				66CC1DCB2CD0F053002F708F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6652CE212CCB6A380057E89A /* JZLD */,
+				66CC1E022CD0F107002F708F /* JZLD */,
 			);
 			name = JZLD;
 			packageProductDependencies = (
 			);
 			productName = JZLD;
-			productReference = 6652CE1F2CCB6A380057E89A /* JZLD.app */;
+			productReference = 66CC1DCD2CD0F053002F708F /* JZLD.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6652CE172CCB6A380057E89A /* Project object */ = {
+		66CC1DC52CD0F053002F708F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					6652CE1E2CCB6A380057E89A = {
+					66CC1DCC2CD0F053002F708F = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = 6652CE1A2CCB6A380057E89A /* Build configuration list for PBXProject "JZLD" */;
+			buildConfigurationList = 66CC1DC82CD0F053002F708F /* Build configuration list for PBXProject "JZLD" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 6652CE162CCB6A380057E89A;
+			mainGroup = 66CC1DC42CD0F053002F708F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 6652CE202CCB6A380057E89A /* Products */;
+			productRefGroup = 66CC1DCE2CD0F053002F708F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6652CE1E2CCB6A380057E89A /* JZLD */,
+				66CC1DCC2CD0F053002F708F /* JZLD */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6652CE1D2CCB6A380057E89A /* Resources */ = {
+		66CC1DCB2CD0F053002F708F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6652CE1B2CCB6A380057E89A /* Sources */ = {
+		66CC1DC92CD0F053002F708F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		6652CE2B2CCB6A390057E89A /* Debug */ = {
+		66CC1DD92CD0F054002F708F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		6652CE2C2CCB6A390057E89A /* Release */ = {
+		66CC1DDA2CD0F054002F708F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		6652CE2E2CCB6A390057E89A /* Debug */ = {
+		66CC1DDC2CD0F054002F708F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -273,7 +273,7 @@
 			};
 			name = Debug;
 		};
-		6652CE2F2CCB6A390057E89A /* Release */ = {
+		66CC1DDD2CD0F054002F708F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6652CE1A2CCB6A380057E89A /* Build configuration list for PBXProject "JZLD" */ = {
+		66CC1DC82CD0F053002F708F /* Build configuration list for PBXProject "JZLD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6652CE2B2CCB6A390057E89A /* Debug */,
-				6652CE2C2CCB6A390057E89A /* Release */,
+				66CC1DD92CD0F054002F708F /* Debug */,
+				66CC1DDA2CD0F054002F708F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6652CE2D2CCB6A390057E89A /* Build configuration list for PBXNativeTarget "JZLD" */ = {
+		66CC1DDB2CD0F054002F708F /* Build configuration list for PBXNativeTarget "JZLD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6652CE2E2CCB6A390057E89A /* Debug */,
-				6652CE2F2CCB6A390057E89A /* Release */,
+				66CC1DDC2CD0F054002F708F /* Debug */,
+				66CC1DDD2CD0F054002F708F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 6652CE172CCB6A380057E89A /* Project object */;
+	rootObject = 66CC1DC52CD0F053002F708F /* Project object */;
 }

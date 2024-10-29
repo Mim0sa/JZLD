@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  JZLD
 //
-//  Created by 吉彦臻 on 2024/10/25.
+//  Created by 吉彦臻 on 2024/10/29.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("机智老丁!")
+            Text("Hello, world!")
         }
         .padding()
     }
