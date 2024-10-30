@@ -35,7 +35,7 @@ struct FlippableCard<Front: View, Back: View>: View {
                 }
                 .modifier(FlipEffect(flipped: $isFrontInAnimation, angle: angle))
         }
-        .animation(.linear(duration: 0.5), value: isFront)
+        .animation(.linear(duration: 0.4), value: isFront)
     }
 }
 
